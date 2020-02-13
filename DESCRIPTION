@@ -1,0 +1,18 @@
+Package: synrefuns
+Title: Functions for Harmonization
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Markus",
+           family = "Keski-Säntti",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = "")
+Description: Functions for Harmonization.
+License: Unlimited
+Encoding: UTF-8
+LazyData: true
+Imports:
+	data.table (>= 1.9.4),
+	dplyr,
+    skimr (== 1.0.6)
+RoxygenNote: 7.0.2

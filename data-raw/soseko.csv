@@ -1,0 +1,47 @@
+soseko_tarkka;soseko_pääryhmä;soseko
+kouluasteen tutkinto;muut; 3
+opistoasteen tutkinto;muut; 4
+korkea opistoaste/ammattikorkeakoulututkinto;muut; 5
+alempi korkeakoulututkinto;muut; 6
+ylempi korkeakoulututkinto;muut; 7
+tutkijakoulutus;muut; 8
+erittelemättömät yrittäjät;yrittäjät;10
+maataloustyönantajat;yrittäjät;11
+maatalouden yksinäisyrittäjät;yrittäjät;12
+pientyönantajat;yrittäjät;21
+muut työnantajat;yrittäjät;22
+yksinäisyrittäjät;yrittäjät;23
+vapaiden ammattien harjoittajat;yrittäjät;24
+muut ylemmät toimihenkilöt;toimihenkilöt;30
+johtotehtävässä toimivat ylemmät toimihenkilöt;toimihenkilöt;31
+suunnittelu- ja tutkimustehtävissä toimivat ylemmät toimihenkilöt;toimihenkilöt;32
+opetustehtävissä toimivat ylemmät toimihenkilöt;toimihenkilöt;33
+muut ylemmät toimihenkilöt;toimihenkilöt;34
+erittelemätöntä työtä tekevät ylemmät toimihenkilöt;toimihenkilöt;39
+erittelemätöntä työtä tekevät alemmat toimihenkilöt;toimihenkilöt;40
+työnjohtotehtävissä toimivat alemmat toimihenkilöt;toimihenkilöt;41
+itsenäistä toimistotyötä tekevät alemmat toimihenkilöt;toimihenkilöt;42
+epäitsenäistä toimistotyötä tekevät alemmat toimihenkilöt;toimihenkilöt;43
+muut alemmat toimihenkilöt;toimihenkilöt;44
+erittelemätöntä työtä tekevät alemmat toimihenkilöt;toimihenkilöt;49
+erittelemätöntä työtä tekevät työntekijät;työntekijät;50
+maataloustyöntekijät;työntekijät;51
+teollisuustyöntekijät;työntekijät;52
+muut tuotantotyöntekijät;työntekijät;53
+jakelu- ja palvelutyöntekijät;työntekijät;54
+erittelemätöntä työtä tekevät työntekijät;työntekijät;59
+opiskelijat;muut;60
+koululaiset;muut;61
+erittelemättömät eläkeläiset;muut;70
+eläkkeellä olevat yrittäjät;muut;71
+eläkkeellä olevat ylemmät toimihenkilöt;muut;72
+eläkkeellä olevat alemmat toimihenkilöt;muut;73
+eläkkeellä olevat työntekijät;muut;74
+muut eläkeläiset (esim. sairaseläkeläiset, työntekijät, työkyvyttömyyseläkeläiset);muut;79
+pitkäaikaistyöttömät;muut;81
+muualla luokittelemattomat;muut;82
+työttömät toimihenkilöt (ammatti koodattu erikseen, jos mainittu);muut;83
+työntekijät, ei ammattia;muut;84
+työntekijät, työllistetty;muut;85
+kotiäiti, perheenemäntä, hoitovapaa, kotirouva, kotityöntekijät, kodinhoito (ammatti koodattu erikseen, mikäli mainittu);muut;98
+sosioekonominen asema tuntematon (ei työntekijät, ei tietoa);muut;99
